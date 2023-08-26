@@ -1,0 +1,11 @@
+ls
+
+pwd
+clear
+
+
+
+echo 'This is a test' > data.txt
+
+
+cd ..
